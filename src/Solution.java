@@ -1,4 +1,4 @@
-
+//String can be called correct if it consists of characters "0" and "1" and there are no redundant leading zeroes. Here are some examples: "0", "10", "1001".
 import java.io.*;
         import java.util.*;
 
